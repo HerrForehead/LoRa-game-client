@@ -1,0 +1,36 @@
+C:\Users\verst\source\repos\game voor challenge\game voor challenge\bin\Debug\game voor challenge.exe.config
+C:\Users\verst\source\repos\game voor challenge\game voor challenge\bin\Debug\game voor challenge.exe
+C:\Users\verst\source\repos\game voor challenge\game voor challenge\bin\Debug\game voor challenge.pdb
+C:\Users\verst\source\repos\game voor challenge\game voor challenge\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\verst\source\repos\game voor challenge\game voor challenge\bin\Debug\Google.Protobuf.dll
+C:\Users\verst\source\repos\game voor challenge\game voor challenge\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\verst\source\repos\game voor challenge\game voor challenge\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\verst\source\repos\game voor challenge\game voor challenge\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\verst\source\repos\game voor challenge\game voor challenge\bin\Debug\MySql.Data.dll
+C:\Users\verst\source\repos\game voor challenge\game voor challenge\bin\Debug\System.Buffers.dll
+C:\Users\verst\source\repos\game voor challenge\game voor challenge\bin\Debug\System.Memory.dll
+C:\Users\verst\source\repos\game voor challenge\game voor challenge\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\verst\source\repos\game voor challenge\game voor challenge\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\verst\source\repos\game voor challenge\game voor challenge\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\verst\source\repos\game voor challenge\game voor challenge\bin\Debug\ZstdNet.dll
+C:\Users\verst\source\repos\game voor challenge\game voor challenge\bin\Debug\Google.Protobuf.pdb
+C:\Users\verst\source\repos\game voor challenge\game voor challenge\bin\Debug\Google.Protobuf.xml
+C:\Users\verst\source\repos\game voor challenge\game voor challenge\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\verst\source\repos\game voor challenge\game voor challenge\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\verst\source\repos\game voor challenge\game voor challenge\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\verst\source\repos\game voor challenge\game voor challenge\bin\Debug\MySql.Data.xml
+C:\Users\verst\source\repos\game voor challenge\game voor challenge\bin\Debug\System.Buffers.xml
+C:\Users\verst\source\repos\game voor challenge\game voor challenge\bin\Debug\System.Memory.xml
+C:\Users\verst\source\repos\game voor challenge\game voor challenge\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\verst\source\repos\game voor challenge\game voor challenge\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\verst\source\repos\game voor challenge\game voor challenge\obj\Debug\game voor challenge.csproj.AssemblyReference.cache
+C:\Users\verst\source\repos\game voor challenge\game voor challenge\obj\Debug\game_voor_challenge.Form1.resources
+C:\Users\verst\source\repos\game voor challenge\game voor challenge\obj\Debug\game_voor_challenge.Properties.Resources.resources
+C:\Users\verst\source\repos\game voor challenge\game voor challenge\obj\Debug\game voor challenge.csproj.GenerateResource.cache
+C:\Users\verst\source\repos\game voor challenge\game voor challenge\obj\Debug\game voor challenge.csproj.CoreCompileInputs.cache
+C:\Users\verst\source\repos\game voor challenge\game voor challenge\obj\Debug\game voor challenge.csproj.CopyComplete
+C:\Users\verst\source\repos\game voor challenge\game voor challenge\obj\Debug\game voor challenge.exe
+C:\Users\verst\source\repos\game voor challenge\game voor challenge\obj\Debug\game voor challenge.pdb
+C:\Users\verst\source\repos\game voor challenge\game voor challenge\obj\Debug\game_voor_challenge.Settings.resources
+C:\Users\verst\source\repos\game voor challenge\game voor challenge\obj\Debug\game_voor_challenge.about.resources
+C:\Users\verst\source\repos\game voor challenge\game voor challenge\obj\Debug\game_voor_challenge.registerLogin.resources
